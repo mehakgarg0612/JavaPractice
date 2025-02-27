@@ -1,10 +1,6 @@
 
 
-
-
-
-
-public class Basic {
+public class Basic2 {
     public static void main(String[] args) {
         System.out.println(3 * 3);
         System.out.println("mehak" + (3 * 3));
@@ -12,14 +8,14 @@ public class Basic {
         System.out.println("mehak" + 5 + 9);
         System.out.println(3 + 2 + "mehak");
         System.out.println(3 + "mehak" + (3 * 3));
-        System.out.println(3 * "mehak");
+       // System.out.println(3 * "mehak");
 
     }
 }
 
 //boolen concept dekhna hai
 
-public class Main {
+/* public class Main {
     public static void main(String[] args) {
         int myNum = 15;
         char c = 'a';
@@ -60,4 +56,4 @@ public class Main {
         int age = 12;
         System.out.println("Hello " + name + "your friend name is  " + name2 + "age is " + age);
     }
-}
+} */
