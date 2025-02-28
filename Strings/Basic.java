@@ -16,6 +16,17 @@ public class Basic {
         // int z = Integer.parseInt(x)+ y;
         
         // System.out.println(z);
+
+
+        class Main {
+            public static void main(String[] args) {
+                String Name = "physics";
+                for (int j = 2; j < 4; j++) {
+                    System.out.println(Name.substring(j));
+                }
+
+            }
+        }
     }
 
 
